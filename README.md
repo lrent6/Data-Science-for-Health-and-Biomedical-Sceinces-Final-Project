@@ -7,4 +7,4 @@ whether Alzheimer Diseases is more prevalent in certain areas of Scotland and as
 
 ## Contentes
 - 'data/' : Contains the datasets used in the analysis.
-- 
+- 'reports/' : Contains the final report for the project.
