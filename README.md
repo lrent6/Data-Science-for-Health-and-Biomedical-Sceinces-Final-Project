@@ -31,6 +31,9 @@ These packages can be installed in R using the following commands:
 
 ```install.packages(c("tidyverse", "ggplot2", "dplyr", "knitr", "formatR", "gt", "stringr", "janitor", "readxl", "readr"))```
 
+## Data 
+Most data required to run this code is pulled from the internet when the script is run. The additional dataset required can be found in the data folder called "2011_Censusv0.1".
+
 ## Contact 
 For any questions or issues please contact:\
 Laurel Renton\
