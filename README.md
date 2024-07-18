@@ -6,8 +6,8 @@ Boards with higher proportions of older people have higher rates of prescription
 whether Alzheimer Diseases is more prevalent in certain areas of Scotland and assess if in the future we could use proportion of older people in a population to predict where to focus resources for treatment of the disease.
 
 ## Contents
-- data : Contains the datasets used in the analysis.
-- report : Contains a pdf of the final report for the project.
+- data : contains the datasets used in the analysis
+- report : contains a pdf of the final report for the project
 - script : contains a RMD file of code
 - figures : contains all the figures produced for the project
 
